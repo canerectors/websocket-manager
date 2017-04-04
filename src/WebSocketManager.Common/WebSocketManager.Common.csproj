@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net461</TargetFramework>
 	<PackageId>WebSocketManager.Common</PackageId>
-     <PackageVersion>1.0.0</PackageVersion>
+     <PackageVersion>1.0.1</PackageVersion>
      <Authors>Radu Matei</Authors>
   </PropertyGroup>
 
